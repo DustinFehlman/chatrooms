@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "157163097872",
+    "firebase_url": "https://chacharoom-c2683.firebaseio.com",
+    "project_id": "chacharoom-c2683",
+    "storage_bucket": "chacharoom-c2683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157163097872:android:724bd2d423b4813c",
+        "android_client_info": {
+          "package_name": "chat.chacharoom.chatrooms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157163097872-vr5jvi7i8ngtje48l40dijvke1asutv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwzJ62d4nZ0lR0iQ0yc9QSdPAtUmRpYW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
